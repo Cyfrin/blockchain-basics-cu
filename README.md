@@ -1,5 +1,7 @@
 > ⚠️ **Important:** If you're looking for the [foundry-full-course](https://github.com/Cyfrin/foundry-full-course-cu) or [moccasin-full-course](https://github.com/Cyfrin/moccasin-full-course-cu) you can find them here:
+> 
 > [Foundry/Solidity: https://github.com/Cyfrin/foundry-full-course-cu](https://github.com/Cyfrin/foundry-full-course-cu)
+> 
 > [Moccasin/Vyper: https://github.com/Cyfrin/moccasin-full-course-cu](https://github.com/Cyfrin/moccasin-full-course-cu)
 
 [contributors-shield]: https://img.shields.io/github/contributors/cyfrin/blockchain-basics-cu.svg?style=for-the-badge
