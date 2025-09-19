@@ -151,6 +151,7 @@ _[⌨️ History of Blockchains](https://updraft.cyfrin.io/courses/blockchain-ba
   - [Vitalik Buterin](https://en.wikipedia.org/wiki/Vitalik_Buterin)
 - [What is a Smart Contract?](https://chain.link/education/smart-contracts)
 - [Nick Szabo](https://en.wikipedia.org/wiki/Nick_Szabo)
+- [University of Cambridge blockchain energy comparison](https://ccaf.io/cbnsi/ethereum/comparisons)
 
 ## Many many chains
 
@@ -316,6 +317,8 @@ _[⌨️ Account Abstraction](https://updraft.cyfrin.io/courses/blockchain-basic
 ## Temporary Smart Wallets
 
 _[⌨️ Temporary Smart Wallets](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-architecture/temporary-smart-wallets)_
+
+- [Pat's video on EIP-7702](https://www.youtube.com/watch?v=0uy4nd8vIe8)
 
 ---
 
