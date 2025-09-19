@@ -17,9 +17,9 @@
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
 <div align="center">
-<h1> Blockchain Developer, Smart Contract, & Solidity Career Path - Powered By AI - Blockchain Basics </h1>
+<h1> Blockchain Basics </h1>
 
-<p align="center"><strong>Learn smart contract development, and level up your career
+<p align="center"><strong>Learn about blockchains and smart contracts and get a career in Web3
 </strong></p>
 
 [![Stargazers][stars-shield]][stars-url] [![Forks][forks-shield]][forks-url]
@@ -36,7 +36,7 @@
     <br />
 </p>
 
-Welcome to the repository for the Blockchain Developer, Smart Contract, & Solidity Career Path - Powered By AI - Blockchain Basics
+Welcome to the repository for the Blockchain Basics Course!
 
 </div>
 
@@ -72,7 +72,6 @@ Cyfrin Updraft Courses:
 ## Recommended Tools
 
 - Recommended Testnet: Sepolia
-- Recommended DevOps: [foundry-devops](https://github.com/Cyfrin/foundry-devops)
 
 # [Testnet Faucets](https://faucets.chain.link)
 
@@ -108,9 +107,43 @@ If you receive a flag pop-up requiring you to have 0.001 ETH on mainnet, you may
 - [Cookbook](./cookbook-listings.md)
   - A smart contract registry and co-pilot
 
-# Blockchain Basics Section 1: What is a Blockchain? What does a blockchain do?
+# Blockchain Basics Section 1: Introduction
 
-_[⌨️  What is a Blockchain?](https://updraft.cyfrin.io/courses/blockchain-basics/basics/what-is-a-blockchain)_
+## Welcome to Updraft
+
+_[⌨️ Welcome to Updraft](https://updraft.cyfrin.io/courses/blockchain-basics/introduction/welcome-to-updraft)_
+
+## Best Practices for Learning
+
+_[⌨️ Best Practices for Learning](https://updraft.cyfrin.io/courses/blockchain-basics/introduction/best-practices-for-learning)_
+
+## Course Navigation
+
+_[⌨️ Course Navigation](https://updraft.cyfrin.io/courses/blockchain-basics/introduction/course-navigation)_
+
+## Meet the Instructors
+
+_[⌨️ Meet the Instructors](https://updraft.cyfrin.io/courses/blockchain-basics/introduction/meet-the-instructors)_
+
+## ZKsync Sponsorship
+
+_[⌨️ ZKsync Sponsorship](https://updraft.cyfrin.io/courses/blockchain-basics/introduction/zksync-sponsorship)_
+
+---
+
+# Blockchain Basics Section 2: What is a Blockchain?
+
+## What is a Blockchain
+
+_[⌨️ What is a Blockchain](https://updraft.cyfrin.io/courses/blockchain-basics/what-is-a-blockchain/what-is-a-blockchain)_
+
+- [Terminology](https://connect.comptia.org/content/articles/blockchain-terminology)
+- [Web3](https://en.wikipedia.org/wiki/Web3)
+- [What is a blockchain](https://www.investopedia.com/terms/b/blockchain.asp)
+
+## History of Blockchains
+
+_[⌨️ History of Blockchains](https://updraft.cyfrin.io/courses/blockchain-basics/what-is-a-blockchain/history-of-blockchains)_
 
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
   - [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
@@ -118,15 +151,23 @@ _[⌨️  What is a Blockchain?](https://updraft.cyfrin.io/courses/blockchain-ba
   - [Vitalik Buterin](https://en.wikipedia.org/wiki/Vitalik_Buterin)
 - [What is a Smart Contract?](https://chain.link/education/smart-contracts)
 - [Nick Szabo](https://en.wikipedia.org/wiki/Nick_Szabo)
+
+## Many many chains
+
+_[⌨️ Many many chains](https://updraft.cyfrin.io/courses/blockchain-basics/what-is-a-blockchain/many-many-chains)_
+
+## The Oracle Problem
+
+_[⌨️ The Oracle Problem](https://updraft.cyfrin.io/courses/blockchain-basics/what-is-a-blockchain/the-oracle-problem)_
+
 - [Hybrid Smart Contracts](https://blog.chain.link/hybrid-smart-contracts-explained/)
 - [Blockchain Oracles](https://betterprogramming.pub/what-is-a-blockchain-oracle-f5ccab8dbd72?source=friends_link&sk=d921a38466df8a9176ed8dd767d8c77d)
-- [Terminology](https://connect.comptia.org/content/articles/blockchain-terminology)
-- [Web3](https://en.wikipedia.org/wiki/Web3)
-- [What is a blockchain](https://www.investopedia.com/terms/b/blockchain.asp)
+- [Decentralized Blockchain Oracles](https://blog.chain.link/what-is-the-blockchain-oracle-problem/)
 
-## The Purpose Of Smart Contracts
 
-_[⌨️  The Purpose Of Smart Contracts](https://updraft.cyfrin.io/courses/blockchain-basics/basics/the-purpose-of-smart-contracts?lesson_format=video)_
+## The Purpose of Smart Contracts
+
+_[⌨️ The Purpose of Smart Contracts](https://updraft.cyfrin.io/courses/blockchain-basics/what-is-a-blockchain/the-purpose-of-smart-contracts)_
 
 - 🎥 [Original Video](https://www.youtube.com/watch?v=_JeRq7Gwj5Y&feature=youtu.be)
 - 🦬 [My ETH Denver Talk](https://www.youtube.com/watch?v=06hXCX_jj2E)
@@ -136,9 +177,13 @@ _[⌨️  The Purpose Of Smart Contracts](https://updraft.cyfrin.io/courses/bloc
 - 🧱 [How does a blockchain work?](https://www.youtube.com/watch?v=SSo_EIwHSd4)
 - 🔮 [Chainlink & Oracles](https://www.youtube.com/watch?v=tIUHQ7sDoaU)
 
-## Other Blockchain Benefits
+## What is the EVM?
 
-_[⌨️ Other Blockchain Benefits](https://updraft.cyfrin.io/courses/blockchain-basics/basics/smart-contract-landscape)_
+_[⌨️ What is the EVM?](https://updraft.cyfrin.io/courses/blockchain-basics/what-is-a-blockchain/what-is-the-evm)_
+
+## Benefits and Use Cases of Smart Contracts
+
+_[⌨️ Benefits and Use Cases of Smart Contracts](https://updraft.cyfrin.io/courses/blockchain-basics/what-is-a-blockchain/benefits-and-use-cases-of-smart-contracts)_
 
 - Decentralized
 - Transparency & Flexibility
@@ -147,17 +192,30 @@ _[⌨️ Other Blockchain Benefits](https://updraft.cyfrin.io/courses/blockchain
 - Counterparty Risk Removal
 - Trust Minimized Agreements
 
-## What have Smart Contracts done so far?
+---
 
-- [DeFi](https://chain.link/education/defi)
-  - [Defi Llama](https://defillama.com/)
-  - [Why DeFi is Important](https://medium.com/the-capital/why-defi-1519cc4d4bd3)
-- [DAOs](https://betterprogramming.pub/what-is-a-dao-what-is-the-architecture-of-a-dao-how-to-build-a-dao-high-level-d096a97162cc)
-- [NFTs](https://www.youtube.com/watch?v=9yuHz6g_P50)
+# Blockchain Basics Section 3: Sending Transactions
 
-## Making Your First Transaction
+## What is a Wallet
 
-_[⌨️ Making Your First Transaction](https://updraft.cyfrin.io/courses/blockchain-basics/basics/metamask-setup-making-your-first-transaction)_
+_[⌨️ What is a Wallet](https://updraft.cyfrin.io/courses/blockchain-basics/sending-transactions/what-is-a-wallet)_
+
+## Setting up a Wallet
+
+_[⌨️ Setting up a Wallet](https://updraft.cyfrin.io/courses/blockchain-basics/sending-transactions/setting-up-a-wallet)_
+
+## Sending Your First Transaction (Tenderly)
+
+_[⌨️ Sending Your First Transaction (Tenderly)](https://updraft.cyfrin.io/courses/blockchain-basics/sending-transactions/sending-your-first-transaction-tenderly)_
+
+## A Note on Testnets
+
+_[⌨️ A Note on Testnets](https://updraft.cyfrin.io/courses/blockchain-basics/sending-transactions/a-note-on-testnets)_
+
+## Sending First Transaction on a Testnet
+
+_[⌨️ Sending First Transaction on a Testnet](https://updraft.cyfrin.io/courses/blockchain-basics/sending-transactions/sending-first-transaction-on-a-testnet)_
+
 
 - [Metamask Download Link](https://metamask.io/)
   - [What is a Private Key?](https://www.coinbase.com/learn/crypto-basics/what-is-a-private-key)
@@ -168,7 +226,9 @@ _[⌨️ Making Your First Transaction](https://updraft.cyfrin.io/courses/blockc
   - NOTE: The Chainlink documentation always has the most up to date faucets on their [link token contracts page](https://docs.chain.link/docs/link-token-contracts/#sepolia). If the faucet above is broken, check the chainlink documentation for the most up to date faucet.
 - OR, use the [Sepolia ETH Faucet](https://faucets.chain.link/), just be sure to swap your metamask to Sepolia!
 
-## Gas I: Introduction to Gas
+## Introduction to Gas
+
+_[⌨️ Introduction to Gas](https://updraft.cyfrin.io/courses/blockchain-basics/sending-transactions/introduction-to-gas)_
 
 _[⌨️ Gas I: Introduction to Gas](https://updraft.cyfrin.io/courses/blockchain-basics/basics/introduction-to-gas)_
 
@@ -176,67 +236,170 @@ _[⌨️ Gas I: Introduction to Gas](https://updraft.cyfrin.io/courses/blockchai
 - [Wei, Gwei, and Ether Converter](https://eth-converter.com/)
 - [ETH Gas Station](https://ethgasstation.info/)
 
-## How Do Blockchains Work?
+## What are smart contracts?
 
-_[⌨️ How Do Blockchains Work?](https://updraft.cyfrin.io/courses/blockchain-basics/basics/how-do-blockchains-work)_
+_[⌨️ What are smart contracts?](https://updraft.cyfrin.io/courses/blockchain-basics/sending-transactions/what-are-smart-contracts)_
+
+---
+
+# Blockchain Basics Section 4: Blockchain Architecture
+
+## Blockchain Architecture Overview
+
+_[⌨️ Blockchain Architecture Overview](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-architecture/blockchain-architecture-overview)_
+
+## Consensus Fundamentals
+
+_[⌨️ Consensus Fundamentals](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-architecture/consensus-fundamentals)_
+
+- [Consensus](https://wiki.polkadot.network/docs/learn-consensus)
+- [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
+- [Proof of Work](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
+- [Nakamoto Consensus](https://blockonomi.com/nakamoto-consensus/)
+
+## How PoW Blockchains Work
+
+_[⌨️ How PoW Blockchains Work](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-architecture/how-pow-blockchains-work)_
 
 - [What is a hash?](https://techjury.net/blog/what-is-cryptographic-hash/)
 - [Blockchain Demo](https://andersbrownworth.com/blockchain/)
-- [Summary](https://ethereum.org/en/developers/docs/intro-to-ethereum/)
 
-## Signing Transactions
+## Introduction to Signatures
 
-_[⌨️ Signing Transactions](https://updraft.cyfrin.io/courses/blockchain-basics/basics/signing-ethereum-transactions)_
+_[⌨️ Introduction to Signatures](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-architecture/introduction-to-signatures)_
 
 - [Public / Private Keys](https://andersbrownworth.com/blockchain/public-private-keys/keys)
-- [Layer 2 and Rollups](https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/)
-- [Decentralized Blockchain Oracles](https://blog.chain.link/what-is-the-blockchain-oracle-problem/)
 
-## Gas II
+## How PoS Blockchains Work
 
-_[⌨️ Gas II: Block Rewards & EIP 1559](https://updraft.cyfrin.io/courses/blockchain-basics/basics/gas-in-depth)_
+_[⌨️ How PoS Blockchains Work](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-architecture/how-pos-blockchains-work)_
+
+- [Summary](https://ethereum.org/en/developers/docs/intro-to-ethereum/)
+
+## Blockchain Vulnerabilities
+
+_[⌨️ Blockchain Vulnerabilities](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-architecture/blockchain-vulnerabilities)_
+
+- [Replay attacks](https://www.cyfrin.io/blog/replay-attack-in-ethereum)
+- [Sybil attacks](https://www.cyfrin.io/blog/understanding-sybil-attacks-in-blockchain-and-smart-contracts)
+- [Double-spending](https://www.cyfrin.io/blog/understanding-double-spending-in-blockchain)
+
+## Hard Forks
+
+_[⌨️ Hard Forks](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-architecture/hard-forks)_
+
+- [The merge](https://ethereum.org/en/eth2/)
+
+## ERCs Vs EIPs
+
+_[⌨️ ERCs Vs EIPs](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-architecture/ercs-vs-eips)_
+
+## Gas in Depth
+
+_[⌨️ Gas in Depth](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-architecture/gas-in-depth)_
 
 - [Block Rewards](https://www.investopedia.com/terms/b/block-reward.asp)
 - Advanced Gas
   - [EIP 1559](https://www.youtube.com/watch?v=MGemhK9t44Q)
   - GWEI, WEI, and ETH
     - [ETH Converter](https://eth-converter.com/)
-
-## Gas II Summary
-
-
 - [Run Your Own Ethereum Node](https://geth.ethereum.org/docs/getting-started)
 
-## High-Level Blockchain Fundamentals
+## The Lifecycle of a Transaction
 
-_[⌨️ High-Level Blockchain Fundamentals](https://updraft.cyfrin.io/courses/blockchain-basics/basics/how-the-blockchain-works)_
+_[⌨️ The Lifecycle of a Transaction](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-architecture/the-lifecycle-of-a-transaction)_
 
-- [Consensus](https://wiki.polkadot.network/docs/learn-consensus)
-- [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
-- [Proof of Work](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
-- [Nakamoto Consensus](https://blockonomi.com/nakamoto-consensus/)
-- [The merge](https://ethereum.org/en/eth2/)
+## Account Abstraction
 
-## L1s L2s and Rollups
+_[⌨️ Account Abstraction](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-architecture/account-abstraction)_
 
+## Temporary Smart Wallets
+
+_[⌨️ Temporary Smart Wallets](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-architecture/temporary-smart-wallets)_
+
+---
+
+# Blockchain Basics Section 5: Blockchain use cases
+
+## Blockchain Use Cases Overview
+
+_[⌨️ Blockchain Use Cases Overview](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-use-cases/blockchain-use-cases-overview)_
+
+- [DeFi](https://chain.link/education/defi)
+  - [Defi Llama](https://defillama.com/)
+  - [Why DeFi is Important](https://medium.com/the-capital/why-defi-1519cc4d4bd3)
+- [DAOs](https://betterprogramming.pub/what-is-a-dao-what-is-the-architecture-of-a-dao-how-to-build-a-dao-high-level-d096a97162cc)
+- [NFTs](https://www.youtube.com/watch?v=9yuHz6g_P50)
+
+## What is DeFi?
+
+_[⌨️ What is DeFi?](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-use-cases/what-is-defi)_
+
+## Tokens
+
+_[⌨️ Tokens](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-use-cases/tokens)_
+
+## Centralized vs Decentralized Exchanges
+
+_[⌨️ Centralized vs Decentralized Exchanges](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-use-cases/centralized-vs-decentralized-exchanges)_
+
+## On-Chain Token Swap
+
+_[⌨️ On-Chain Token Swap](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-use-cases/on-chain-token-swap)_
+
+## Governance
+
+_[⌨️ Governance](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-use-cases/governance)_
+
+---
+
+# Blockchain Basics Section 6: L1s, L2s and Rollups
+
+## L1s, L2s and Rollups
+
+_[⌨️ L1s, L2s and Rollups](https://updraft.cyfrin.io/courses/blockchain-basics/l1s-l2s-and-rollups/l1s-l2s-and-rollups)_
+
+- [Layer 2 and Rollups](https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/)
 - [Replay attacks](https://www.cyfrin.io/blog/replay-attack-in-ethereum)
 - [Sybil attacks](https://www.cyfrin.io/blog/understanding-sybil-attacks-in-blockchain-and-smart-contracts)
 - [Double-spending](https://www.cyfrin.io/blog/understanding-double-spending-in-blockchain)
 - [Zero-knowledge proofs](https://ethereum.org/en/zero-knowledge-proofs/)
 
+## Centralized Sequencers
+
+_[⌨️ Centralized Sequencers](https://updraft.cyfrin.io/courses/blockchain-basics/l1s-l2s-and-rollups/centralized-sequencers)_
+
 ## Rollup Stages
+
+_[⌨️ Rollup Stages](https://updraft.cyfrin.io/courses/blockchain-basics/l1s-l2s-and-rollups/rollup-stages)_
 
 - [L2 Beat](https://l2beat.com/scaling/summary)
 
-## Making your First Transaction on ZKsync
+## Make Your First Transaction on ZKsync
+
+_[⌨️ Make Your First Transaction on ZKsync](https://updraft.cyfrin.io/courses/blockchain-basics/l1s-l2s-and-rollups/make-your-first-transaction-on-zksync)_
 
 - [ZKsync bridge](https://portal.zksync.io/bridge/?network=sepolia)
 
-## Why ZKsync is our Recommended Chain
+## Why ZKsync is Our Recommended Chain
+
+_[⌨️ Why ZKsync is Our Recommended Chain](https://updraft.cyfrin.io/courses/blockchain-basics/l1s-l2s-and-rollups/why-zksync-is-our-recommended-chain)_
 
 - [ZKsync](https://zksync.io/)
 
-## Blockchain Basics Section 1 NFTs
+---
+
+# Blockchain Basics Section 7: Congratulations
+
+## Summary
+
+_[⌨️ Summary](https://updraft.cyfrin.io/courses/blockchain-basics/congratulations/summary)_
+
+## What's Next
+
+_[⌨️ What's Next](https://updraft.cyfrin.io/courses/blockchain-basics/congratulations/whats-next)_
+
+# Blockchain BasicsNFTs
 
 - [ZKsync](https://explorer.zksync.io/address/0xfa257F68Ca436F6e00299917837D7712Fa5bdf75)
 - [Sepolia](https://sepolia.etherscan.io/address/0x25056312685339b49e1d1C5a0b72Ff9eff13AF77)
@@ -264,6 +427,8 @@ A huge thank you to our sponsors. These are the groups and technologies
 - [Matter Labs (ZKsync)](https://zksync.io/)
 - [Arbitrum Foundation](https://arbitrum.foundation/)
 - [Chainlink Labs](https://chainlinklabs.com/)
+- [Tenderly](https://tenderly.co/)
+- [Uniswap](https://app.uniswap.org/swap)
 - [BadgerDAO](https://badger.com/)
 - [Optimism RPGF Round 3](https://community.optimism.io/docs/governance/retropgf-3/)
 
