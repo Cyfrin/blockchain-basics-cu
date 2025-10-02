@@ -318,7 +318,8 @@ _[⌨️ Account Abstraction](https://updraft.cyfrin.io/courses/blockchain-basic
 
 _[⌨️ Temporary Smart Wallets](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-architecture/temporary-smart-wallets)_
 
-- [Pat's video on EIP-7702](https://www.youtube.com/watch?v=0uy4nd8vIe8)
+- [Patrick Collins' video on EIP-7702](https://www.youtube.com/watch?v=0uy4nd8vIe8)
+- [Patrick Collins' blog on type 3 transactions](https://www.cyfrin.io/blog/what-is-eip-4844-proto-danksharding-and-blob-transactions)
 
 ---
 
@@ -402,7 +403,7 @@ _[⌨️ Summary](https://updraft.cyfrin.io/courses/blockchain-basics/congratula
 
 _[⌨️ What's Next](https://updraft.cyfrin.io/courses/blockchain-basics/congratulations/whats-next)_
 
-# Blockchain BasicsNFTs
+# Blockchain Basics NFTs
 
 - [ZKsync](https://explorer.zksync.io/address/0xfa257F68Ca436F6e00299917837D7712Fa5bdf75)
 - [Sepolia](https://sepolia.etherscan.io/address/0x25056312685339b49e1d1C5a0b72Ff9eff13AF77)
