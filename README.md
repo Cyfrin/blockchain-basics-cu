@@ -108,6 +108,8 @@ If you receive a flag pop-up requiring you to have 0.001 ETH on mainnet, you may
   - A smart contract registry and co-pilot
 - [Demo site](https://demos.updraft.cyfrin.io/)
   - Understand why we should care about blockchains, how signatures work, how PoS blockchains work and practice using DeFi
+- [Cyfrin Tools](https://tools.cyfrin.io/)
+  - Ethereum gas estimation, unit conversion, ABI encoding/decoding, and cryptographic hash tools
 
 # Blockchain Basics Section 1: Introduction
 
@@ -134,6 +136,8 @@ _[⌨️ What is a Blockchain](https://updraft.cyfrin.io/courses/blockchain-basi
 - [Terminology](https://connect.comptia.org/content/articles/blockchain-terminology)
 - [Web3](https://en.wikipedia.org/wiki/Web3)
 - [What is a blockchain](https://www.investopedia.com/terms/b/blockchain.asp)
+- [Demo site](https://demos.updraft.cyfrin.io/)
+  - Understand why we should care about blockchains
 
 ## History of Blockchain
 
@@ -214,6 +218,8 @@ _[⌨️ Metamask Wallet Walkthrough](https://updraft.cyfrin.io/courses/blockcha
 
 _[⌨️ Sending Your First Transaction](https://updraft.cyfrin.io/courses/blockchain-basics/sending-transactions/sending-your-first-transaction)_
 
+- Tenderly Virtual Signup: <a href="https://tenderly.co/?mtm_campaign=partner&mtm_kwd=cyfrin" target="_blank"> https://tenderly.co/?mtm_campaign=partner&mtm_kwd=cyfrin</a>
+
 ## A Note on Testnets
 
 _[⌨️ A Note on Testnets](https://updraft.cyfrin.io/courses/blockchain-basics/sending-transactions/a-note-on-testnets)_
@@ -271,13 +277,16 @@ _[⌨️ How PoW Blockchains Work](https://updraft.cyfrin.io/courses/blockchain-
 
 _[⌨️ Introduction to Signatures](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-architecture/introduction-to-signatures)_
 
-- [Public / Private Keys](https://andersbrownworth.com/blockchain/public-private-keys/keys)
+- [Demo site](https://demos.updraft.cyfrin.io/)
+  - Understand why we should care about blockchains, how signatures work, how PoS blockchains work and practice using DeFi
 
 ## How PoS Blockchains Work
 
 _[⌨️ How PoS Blockchains Work](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-architecture/how-pos-blockchains-work)_
 
 - [Summary](https://ethereum.org/en/developers/docs/intro-to-ethereum/)
+- [Demo site](https://demos.updraft.cyfrin.io/)
+  - Understand why we should care about blockchains, how signatures work, how PoS blockchains work and practice using DeFi
 
 ## Blockchain Vulnerabilities
 
@@ -307,6 +316,8 @@ _[⌨️ Gas in Depth](https://updraft.cyfrin.io/courses/blockchain-basics/block
   - GWEI, WEI, and ETH
     - [ETH Converter](https://eth-converter.com/)
 - [Run Your Own Ethereum Node](https://geth.ethereum.org/docs/getting-started)
+- [Cyfrin Tools](https://tools.cyfrin.io/)
+  - Ethereum gas estimation, unit conversion, ABI encoding/decoding, and cryptographic hash tools
 
 ## The Lifecycle of a Transaction
 
@@ -352,6 +363,8 @@ _[⌨️ Centralized vs Decentralized Exchanges](https://updraft.cyfrin.io/cours
 ## Uniswap Demo
 
 _[⌨️ Uniswap Demo](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-use-cases/uniswap-demo)_
+
+- [Uniswap](https://app.uniswap.org/)
 
 ## Decentralized Governance
 
