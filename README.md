@@ -111,23 +111,15 @@ If you receive a flag pop-up requiring you to have 0.001 ETH on mainnet, you may
 
 ## Welcome to Updraft
 
-_[⌨️ Welcome to Updraft](https://updraft.cyfrin.io/courses/blockchain-basics/introduction/welcome-to-updraft)_
+_[⌨️ Welcome to Updraft](https://updraft.cyfrin.io/courses/blockchain-basics/introduction-to-updraft/welcome-to-updraft)_
 
-## Best Practices for Learning
+## Best Practices
 
-_[⌨️ Best Practices for Learning](https://updraft.cyfrin.io/courses/blockchain-basics/introduction/best-practices-for-learning)_
-
-## Course Navigation
-
-_[⌨️ Course Navigation](https://updraft.cyfrin.io/courses/blockchain-basics/introduction/course-navigation)_
+_[⌨️ Best Practices](https://updraft.cyfrin.io/courses/blockchain-basics/introduction-to-updraft/best-practices)_
 
 ## Meet the Instructors
 
-_[⌨️ Meet the Instructors](https://updraft.cyfrin.io/courses/blockchain-basics/introduction/meet-the-instructors)_
-
-## ZKsync Sponsorship
-
-_[⌨️ ZKsync Sponsorship](https://updraft.cyfrin.io/courses/blockchain-basics/introduction/zksync-sponsorship)_
+_[⌨️ Meet the Instructors](https://updraft.cyfrin.io/courses/blockchain-basics/introduction-to-updraft/meet-the-instructors)_
 
 ---
 
@@ -141,9 +133,9 @@ _[⌨️ What is a Blockchain](https://updraft.cyfrin.io/courses/blockchain-basi
 - [Web3](https://en.wikipedia.org/wiki/Web3)
 - [What is a blockchain](https://www.investopedia.com/terms/b/blockchain.asp)
 
-## History of Blockchains
+## History of Blockchain
 
-_[⌨️ History of Blockchains](https://updraft.cyfrin.io/courses/blockchain-basics/what-is-a-blockchain/history-of-blockchains)_
+_[⌨️ History of Blockchain](https://updraft.cyfrin.io/courses/blockchain-basics/what-is-a-blockchain/history-of-blockchain)_
 
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
   - [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
@@ -153,9 +145,17 @@ _[⌨️ History of Blockchains](https://updraft.cyfrin.io/courses/blockchain-ba
 - [Nick Szabo](https://en.wikipedia.org/wiki/Nick_Szabo)
 - [University of Cambridge blockchain energy comparison](https://ccaf.io/cbnsi/ethereum/comparisons)
 
-## Many many chains
+## Benefits of Blockchain
 
-_[⌨️ Many many chains](https://updraft.cyfrin.io/courses/blockchain-basics/what-is-a-blockchain/many-many-chains)_
+_[⌨️ Benefits of Blockchain](https://updraft.cyfrin.io/courses/blockchain-basics/what-is-a-blockchain/benefits-of-blockchain)_
+
+## Use Cases of Blockchains
+
+_[⌨️ Use Cases of Blockchains](https://updraft.cyfrin.io/courses/blockchain-basics/what-is-a-blockchain/use-cases-of-blockchains)_
+
+## Many Many Chains
+
+_[⌨️ Many Many Chains](https://updraft.cyfrin.io/courses/blockchain-basics/what-is-a-blockchain/many-many-chains)_
 
 ## The Oracle Problem
 
@@ -164,7 +164,6 @@ _[⌨️ The Oracle Problem](https://updraft.cyfrin.io/courses/blockchain-basics
 - [Hybrid Smart Contracts](https://blog.chain.link/hybrid-smart-contracts-explained/)
 - [Blockchain Oracles](https://betterprogramming.pub/what-is-a-blockchain-oracle-f5ccab8dbd72?source=friends_link&sk=d921a38466df8a9176ed8dd767d8c77d)
 - [Decentralized Blockchain Oracles](https://blog.chain.link/what-is-the-blockchain-oracle-problem/)
-
 
 ## The Purpose of Smart Contracts
 
@@ -178,13 +177,13 @@ _[⌨️ The Purpose of Smart Contracts](https://updraft.cyfrin.io/courses/block
 - 🧱 [How does a blockchain work?](https://www.youtube.com/watch?v=SSo_EIwHSd4)
 - 🔮 [Chainlink & Oracles](https://www.youtube.com/watch?v=tIUHQ7sDoaU)
 
-## What is the EVM?
+## What is the EVM
 
-_[⌨️ What is the EVM?](https://updraft.cyfrin.io/courses/blockchain-basics/what-is-a-blockchain/what-is-the-evm)_
+_[⌨️ What is the EVM](https://updraft.cyfrin.io/courses/blockchain-basics/what-is-a-blockchain/what-is-the-evm)_
 
-## Benefits and Use Cases of Smart Contracts
+## Benefits of Smart Contracts
 
-_[⌨️ Benefits and Use Cases of Smart Contracts](https://updraft.cyfrin.io/courses/blockchain-basics/what-is-a-blockchain/benefits-and-use-cases-of-smart-contracts)_
+_[⌨️ Benefits of Smart Contracts](https://updraft.cyfrin.io/courses/blockchain-basics/what-is-a-blockchain/benefits-of-smart-contracts)_
 
 - Decentralized
 - Transparency & Flexibility
@@ -205,9 +204,13 @@ _[⌨️ What is a Wallet](https://updraft.cyfrin.io/courses/blockchain-basics/s
 
 _[⌨️ Setting up a Wallet](https://updraft.cyfrin.io/courses/blockchain-basics/sending-transactions/setting-up-a-wallet)_
 
-## Sending Your First Transaction (Tenderly)
+## Metamask Wallet Walkthrough
 
-_[⌨️ Sending Your First Transaction (Tenderly)](https://updraft.cyfrin.io/courses/blockchain-basics/sending-transactions/sending-your-first-transaction-tenderly)_
+_[⌨️ Metamask Wallet Walkthrough](https://updraft.cyfrin.io/courses/blockchain-basics/sending-transactions/metamask-wallet-walkthrough)_
+
+## Sending Your First Transaction
+
+_[⌨️ Sending Your First Transaction](https://updraft.cyfrin.io/courses/blockchain-basics/sending-transactions/sending-your-first-transaction)_
 
 ## A Note on Testnets
 
@@ -216,7 +219,6 @@ _[⌨️ A Note on Testnets](https://updraft.cyfrin.io/courses/blockchain-basics
 ## Sending First Transaction on a Testnet
 
 _[⌨️ Sending First Transaction on a Testnet](https://updraft.cyfrin.io/courses/blockchain-basics/sending-transactions/sending-first-transaction-on-a-testnet)_
-
 
 - [Metamask Download Link](https://metamask.io/)
   - [What is a Private Key?](https://www.coinbase.com/learn/crypto-basics/what-is-a-private-key)
@@ -231,15 +233,13 @@ _[⌨️ Sending First Transaction on a Testnet](https://updraft.cyfrin.io/cours
 
 _[⌨️ Introduction to Gas](https://updraft.cyfrin.io/courses/blockchain-basics/sending-transactions/introduction-to-gas)_
 
-_[⌨️ Gas I: Introduction to Gas](https://updraft.cyfrin.io/courses/blockchain-basics/basics/introduction-to-gas)_
-
 - [Gas and Gas Fees](https://ethereum.org/en/developers/docs/gas/)
 - [Wei, Gwei, and Ether Converter](https://eth-converter.com/)
 - [ETH Gas Station](https://ethgasstation.info/)
 
-## What are smart contracts?
+## What are Smart Contracts
 
-_[⌨️ What are smart contracts?](https://updraft.cyfrin.io/courses/blockchain-basics/sending-transactions/what-are-smart-contracts)_
+_[⌨️ What are Smart Contracts](https://updraft.cyfrin.io/courses/blockchain-basics/sending-transactions/what-are-smart-contracts)_
 
 ---
 
@@ -291,9 +291,9 @@ _[⌨️ Hard Forks](https://updraft.cyfrin.io/courses/blockchain-basics/blockch
 
 - [The merge](https://ethereum.org/en/eth2/)
 
-## ERCs Vs EIPs
+## EIP vs ERC
 
-_[⌨️ ERCs Vs EIPs](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-architecture/ercs-vs-eips)_
+_[⌨️ EIP vs ERC](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-architecture/eip-vs-erc)_
 
 ## Gas in Depth
 
@@ -335,9 +335,9 @@ _[⌨️ Blockchain Use Cases Overview](https://updraft.cyfrin.io/courses/blockc
 - [DAOs](https://betterprogramming.pub/what-is-a-dao-what-is-the-architecture-of-a-dao-how-to-build-a-dao-high-level-d096a97162cc)
 - [NFTs](https://www.youtube.com/watch?v=9yuHz6g_P50)
 
-## What is DeFi?
+## What is DeFi
 
-_[⌨️ What is DeFi?](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-use-cases/what-is-defi)_
+_[⌨️ What is DeFi](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-use-cases/what-is-defi)_
 
 ## Tokens
 
@@ -347,21 +347,21 @@ _[⌨️ Tokens](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-
 
 _[⌨️ Centralized vs Decentralized Exchanges](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-use-cases/centralized-vs-decentralized-exchanges)_
 
-## On-Chain Token Swap
+## Uniswap Demo
 
-_[⌨️ On-Chain Token Swap](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-use-cases/on-chain-token-swap)_
+_[⌨️ Uniswap Demo](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-use-cases/uniswap-demo)_
 
-## Governance
+## Decentralized Governance
 
-_[⌨️ Governance](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-use-cases/governance)_
+_[⌨️ Decentralized Governance](https://updraft.cyfrin.io/courses/blockchain-basics/blockchain-use-cases/decentralized-governance)_
 
 ---
 
-# Blockchain Basics Section 6: L1s, L2s and Rollups
+# Blockchain Basics Section 6: Scalability
 
 ## L1s, L2s and Rollups
 
-_[⌨️ L1s, L2s and Rollups](https://updraft.cyfrin.io/courses/blockchain-basics/l1s-l2s-and-rollups/l1s-l2s-and-rollups)_
+_[⌨️ L1s, L2s and Rollups](https://updraft.cyfrin.io/courses/blockchain-basics/scalability/l1s-l2s-and-rollups)_
 
 - [Layer 2 and Rollups](https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/)
 - [Replay attacks](https://www.cyfrin.io/blog/replay-attack-in-ethereum)
@@ -371,23 +371,23 @@ _[⌨️ L1s, L2s and Rollups](https://updraft.cyfrin.io/courses/blockchain-basi
 
 ## Centralized Sequencers
 
-_[⌨️ Centralized Sequencers](https://updraft.cyfrin.io/courses/blockchain-basics/l1s-l2s-and-rollups/centralized-sequencers)_
+_[⌨️ Centralized Sequencers](https://updraft.cyfrin.io/courses/blockchain-basics/scalability/centralized-sequencers)_
 
 ## Rollup Stages
 
-_[⌨️ Rollup Stages](https://updraft.cyfrin.io/courses/blockchain-basics/l1s-l2s-and-rollups/rollup-stages)_
+_[⌨️ Rollup Stages](https://updraft.cyfrin.io/courses/blockchain-basics/scalability/rollup-stages)_
 
 - [L2 Beat](https://l2beat.com/scaling/summary)
 
-## Make Your First Transaction on ZKsync
+## Making Your First Transaction on ZKsync
 
-_[⌨️ Make Your First Transaction on ZKsync](https://updraft.cyfrin.io/courses/blockchain-basics/l1s-l2s-and-rollups/make-your-first-transaction-on-zksync)_
+_[⌨️ Making Your First Transaction on ZKsync](https://updraft.cyfrin.io/courses/blockchain-basics/scalability/making-your-first-transaction-on-zksync)_
 
 - [ZKsync bridge](https://portal.zksync.io/bridge/?network=sepolia)
 
 ## Why ZKsync is Our Recommended Chain
 
-_[⌨️ Why ZKsync is Our Recommended Chain](https://updraft.cyfrin.io/courses/blockchain-basics/l1s-l2s-and-rollups/why-zksync-is-our-recommended-chain)_
+_[⌨️ Why ZKsync is Our Recommended Chain](https://updraft.cyfrin.io/courses/blockchain-basics/scalability/why-zksync-is-our-recommended-chain)_
 
 - [ZKsync](https://zksync.io/)
 
@@ -395,13 +395,13 @@ _[⌨️ Why ZKsync is Our Recommended Chain](https://updraft.cyfrin.io/courses/
 
 # Blockchain Basics Section 7: Congratulations
 
-## Summary
+## Congratulations
 
-_[⌨️ Summary](https://updraft.cyfrin.io/courses/blockchain-basics/congratulations/summary)_
+_[⌨️ Congratulations](https://updraft.cyfrin.io/courses/blockchain-basics/congratulations/congratulations)_
 
-## What's Next
+## Career Tracks
 
-_[⌨️ What's Next](https://updraft.cyfrin.io/courses/blockchain-basics/congratulations/whats-next)_
+_[⌨️ Career Tracks](https://updraft.cyfrin.io/courses/blockchain-basics/congratulations/career-tracks)_
 
 # Blockchain Basics NFTs
 
