@@ -111,7 +111,7 @@ If you receive a flag pop-up requiring you to have 0.001 ETH on mainnet, you may
 - [Cyfrin Tools](https://tools.cyfrin.io/)
   - Ethereum gas estimation, unit conversion, ABI encoding/decoding, and cryptographic hash tools
 
-# Blockchain Basics Section 1: Introduction
+# Blockchain Basics: Introduction
 
 ## Welcome to Updraft
 
@@ -127,7 +127,7 @@ _[⌨️ Meet the Instructors](https://updraft.cyfrin.io/courses/blockchain-basi
 
 ---
 
-# Blockchain Basics Section 2: What is a Blockchain?
+# Blockchain Basics Section 1: What is a Blockchain?
 
 ## What is a Blockchain
 
@@ -200,7 +200,7 @@ _[⌨️ Benefits of Smart Contracts](https://updraft.cyfrin.io/courses/blockcha
 
 ---
 
-# Blockchain Basics Section 3: Sending Transactions
+# Blockchain Basics Section 2: Sending Transactions
 
 ## What is a Wallet
 
@@ -251,7 +251,7 @@ _[⌨️ What are Smart Contracts](https://updraft.cyfrin.io/courses/blockchain-
 
 ---
 
-# Blockchain Basics Section 4: Blockchain Architecture
+# Blockchain Basics Section 3: Blockchain Architecture
 
 ## Blockchain Architecture Overview
 
@@ -336,7 +336,7 @@ _[⌨️ Temporary Smart Wallets](https://updraft.cyfrin.io/courses/blockchain-b
 
 ---
 
-# Blockchain Basics Section 5: Blockchain use cases
+# Blockchain Basics Section 4: Blockchain use cases
 
 ## Blockchain Use Cases Overview
 
@@ -372,7 +372,7 @@ _[⌨️ Decentralized Governance](https://updraft.cyfrin.io/courses/blockchain-
 
 ---
 
-# Blockchain Basics Section 6: Scalability
+# Blockchain Basics Section 5: Scalability
 
 ## L1s, L2s and Rollups
 
@@ -408,7 +408,7 @@ _[⌨️ Why ZKsync is Our Recommended Chain](https://updraft.cyfrin.io/courses/
 
 ---
 
-# Blockchain Basics Section 7: Congratulations
+# Blockchain Basics Section 6: Congratulations
 
 ## Congratulations
 
