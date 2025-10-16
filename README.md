@@ -106,6 +106,8 @@ If you receive a flag pop-up requiring you to have 0.001 ETH on mainnet, you may
   - Decentralized Stack Exchange!
 - [Cookbook](./cookbook-listings.md)
   - A smart contract registry and co-pilot
+- [Demo site](https://demos.updraft.cyfrin.io/)
+  - Understand why we should care about blockchains, how signatures work, how PoS blockchains work and practice using DeFi
 
 # Blockchain Basics Section 1: Introduction
 
